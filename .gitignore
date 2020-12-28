@@ -1,6 +1,4 @@
 /.metadata/
-<<<<<<< HEAD
 *.class
-=======
 .gitignore
->>>>>>> bdd7473e253a4ae209ddf1cd24899d41f9b61386
+
