@@ -2,15 +2,15 @@ public class Artifact {
 
     static int count = 0;
 
-    public Artifact(){
+    public Artifact() {
         count++;
         this.number = "Number" + count;
         }
-    
+
         public Artifact(int number, String culture) {
         this.number = number;
         this.culture = culture;
-        }   
+        }
 
         public Artifact(int number, String culture, int century) {
             this.number = number;
